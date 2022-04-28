@@ -1,1 +1,1 @@
-
+{"0":"\n","redirectUrls":[],"redirectDelay":1,"redirectTimeout":0,"logoutRedirectTimeout":0,"loadDomainDynamically":true,"registerFirst":true,"userTimeout":0,"apple":{"clientId":"fasd","scope":"asdf"},"facebook":{"appId":"asdf","permissions":[],"version":"asdf"}}
